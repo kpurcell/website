@@ -194,7 +194,7 @@ I have designed and taught a number of classes over the last several years.
 ***
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.en_US">Creative Commons Attribution 4.0 International License</a>.
 
-######  *updated 14 May 2014*  
+######  updated *15 May 2014*  
 
 
 
