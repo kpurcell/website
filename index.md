@@ -46,7 +46,12 @@ GitHub: [kpurcell](https://github.com/kpurcell)
 
 ## Publications {#publications}
 
-### Peer-reviewed
+### Peer-reviewed  
+
+* M. Karnauskas, M.J. Schirripa, J.K. Craig, G. Cook, C. Kelbe, J. Agar, B. Black, D. Enfield, D. Lindo-Atichati, B. Muhling, **K.M. Purcell**, P. Richards, C. Wang.  2014. Evidence of climate-driven ecosystem reorganization in the Gulf of Mexico.  Proceeding of the National Academy of Science. (*In review*)
+
+* B.J. Langseth, **K.M. Purcell**, J.K. Craig, A.M. Schueller, J.W. Smith, K. W. Shertzer, S. Creekmore, K.A. Rose, K. Fennel. 2014. Effect of changes in dissolved oxygen concentrations on the spatial dynamics of the Gulf Menhaden fishery in the northern Gulf of Mexico. *Marine and Coastal Fisheries*. (*In review*)  
+
 * **K. M. Purcell**, C. A. Stockwell.  2013. Provenance and Peregrination: an evaluation of the genetic structure and post-introduction dispersal of a non-native invasive fish to the North Island, New Zealand.  Biological Invasions. (*In review*)  
 
 * D. Enfield, G. Goni, F. Bringas, D. Lindo, S.-Ki Lee, Y. Liu, B. Muhling, L. Avens, J. Agar, J. Litz, P. Richards, L. Garrison, **K. M. Purcell**, J. Smith, N. Bartlein, T. Minello, B. McAnally, D. Apeti, H. Perryman.  (editors) M. Kamauskas, M. J. Schirripa, C. Kelble, G. Cook, J. K. Craig. 2013.  Gulf of Mexico Ecosystem Status Report.  NOAA Technical Memorandum #NMFS-SEFSC-653.[(pdf)](http://www.gulfcouncil.org/docs/Gulf%20of%20Mexico%20Ecosystem%20Status%20Report.pdf)  
