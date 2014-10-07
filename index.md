@@ -26,8 +26,9 @@ GitHub: [kpurcell](https://github.com/kpurcell)
 ***
 
 ## Employment {#employment}
-* 2011-, Postdoctoral Associate, [Duke University](http://duke.edu/), [Nicholas School of the Environment](http://nicholas.duke.edu/) and the [National Marine Fishery Service](http://www.nmfs.noaa.gov/), [Beaufort Lab](http://www.sefsc.noaa.gov/labs/beaufort/).  
-* 2009-2011, Postdoctoral Fellow, [North Dakota State Univesity](http://www.ndsu.edu/),[Environmental and Conservation Sciences](http://www.ndsu.edu/ecs/).  
+* 2011-, Postdoctoral Associate, [National Marine Fishery Service](http://www.nmfs.noaa.gov/), [Beaufort Lab](http://www.sefsc.noaa.gov/labs/beaufort/).    
+* 2011-2012, Postdoctoral Associate, [Duke University](http://duke.edu/), [Nicholas School of the Environment](http://nicholas.duke.edu/).    
+* 2009-2011, Postdoctoral Fellow, [North Dakota State Univesity](http://www.ndsu.edu/), [Env. and Conservation Sciences](http://www.ndsu.edu/ecs/).  
 * 2008-2009, Research Assistant, [University of Louisiana-Lafayette](http://www.louisiana.edu/), [Neigle Lab](http://seahorse.louisiana.edu/)  
 * 2006-2008, Instructor, [University of Louisiana-Lafayette](http://www.louisiana.edu/), [Biology Department](http://biology.ucs.louisiana.edu/)  
 * 2003-2006, University Fellow, [University of Louisiana-Lafayette](http://www.louisiana.edu/), [Biology Department](http://biology.ucs.louisiana.edu/)  
@@ -50,7 +51,7 @@ GitHub: [kpurcell](https://github.com/kpurcell)
 
 * M. Karnauskas, M.J. Schirripa, J.K. Craig, G. Cook, C. Kelbe, J. Agar, B. Black, D. Enfield, D. Lindo-Atichati, B. Muhling, **K.M. Purcell**, P. Richards, C. Wang.  2014. Evidence of climate-driven ecosystem reorganization in the Gulf of Mexico.  Proceeding of the National Academy of Science. (*In review*)
 
-* B.J. Langseth, **K.M. Purcell**, J.K. Craig, A.M. Schueller, J.W. Smith, K. W. Shertzer, S. Creekmore, K.A. Rose, K. Fennel. 2014. Effect of changes in dissolved oxygen concentrations on the spatial dynamics of the Gulf Menhaden fishery in the northern Gulf of Mexico. *Marine and Coastal Fisheries*. (*In press*)  
+* B.J. Langseth, **K.M. Purcell**, J.K. Craig, A.M. Schueller, J.W. Smith, K. W. Shertzer, S. Creekmore, K.A. Rose, K. Fennel. 2014. Effect of changes in dissolved oxygen concentrations on the spatial dynamics of the Gulf Menhaden fishery in the northern Gulf of Mexico. *Marine and Coastal Fisheries*. doi:10.1080/19425120.2014.949017  
 
 * **K. M. Purcell**, C. A. Stockwell.  2013. Provenance and Peregrination: an evaluation of the genetic structure and post-introduction dispersal of a non-native invasive fish to the North Island, New Zealand.  Biological Invasions. (*In press*)  
 
@@ -85,7 +86,20 @@ community dynamics. (27 pgs, 5 figs, 2 tables)
 ###### [top](#top)
 ***
 
-### Grants {#grants}
+## Technical Reports {#reports}
+
+* **K. M. Purcell**, N. Bacheler, L. Coggins. 2014. Standardized video counts of Southeast U.S. Atlantic red snapper (*Lutjanus campechanus*) from the Southeast Reef Fish Survey. NOAA Technical Memorandum #SEDAR41-DW04.  
+
+* **K. M. Purcell**, N. Bacheler, L. Coggins. 2014. Standardized video counts of Southeast U.S. Atlantic gray triggerfish (*Balistes capriscus*) from the Southeast Reef Fish Survey. NOAA Technical Memorandum #SEDAR41-DW03.
+
+* D. Enfield, G. Goni, F. Bringas, D. Lindo, S.-Ki Lee, Y. Liu, B. Muhling, L. Avens, J. Agar, J. Litz, P. Richards, L. Garrison, **K. M. Purcell**, J. Smith, N. Bartlein, T. Minello, B. McAnally, D. Apeti, H. Perryman. (editors) M. Kamauskas, M. J. Schirripa, C. Kelble, G. Cook, J. K. Craig. 2013. Gulf of Mexico Ecosystem Status Report. NOAA Technical Memorandum #NMFS-SEFSC-653.
+
+###### [top](#top)
+***
+
+## Grants {#grants}
+
+
 * **K. M. Purcell**, J.K. Craig, K. Andrews, J. Nance, E. Scott-Denton. 2014. A spatial analysis of bycatch estimation methodologies for the Gulf of Mexico shrimp fishery. *Information to Support and Conduct Stock Assessments Program*. (**$97,000**) (*In review*)  
 
 * **K.M. Purcell** J.K. Craig. J.W. Smith.  2014.  Unmanned Aircraft Systems (UAS) as a tool for fishery-independent data collection in support of fisheries management.  *NOAA Fisheries Advanced Sampling Technology Working Group*. (**$122,000**) (*In Review*)  
@@ -96,13 +110,18 @@ community dynamics. (27 pgs, 5 figs, 2 tables)
 
 * J. D. Fisher, **K. M. Purcell**, C. A. Stockwell. 2009. A genetic evaluation of northern leopard frog populations in North Dakota. _North Dakota State Wildlife Grant Program_. (**$100,000**)
 
+
 ###### [top](#top)
 
 ***
 
 ## Presentations {#presentations}
 
-### Publsihed Abstracts & Presentations
+### Published Abstracts & Presentations
+
+* **K. M. Purcell**, J. K. Craig. 2014. Fishing and eutrophication effects on the northern Gulf of Mexico demersal nekton community. 144 th Annual Meeting of the American Fisheries Society, Quebec City, Canada. DOI: 10.6084/m9.figshare.1181877
+
+* J. K. Craig, **K. M. Purcell**, M. D. Smith, J. M. Nance. 2014. Spatial dynamics of the northern Gulf of Mexico shrimp fishery in relation to large-scale hypoxia. 144 th Annual Meeting of the American Fisheries Society, Quebec City, Canada.
 
 * **K. M. Purcell**, J. K. Craig, M. D. Smith, J. M. Nance.  2013. The effects of hypoxia on the spatial dynamics of the northwestern Gulf of Mexico.  Aquatic Sciences meeting of the American Society for Limnology and Oceanography. New Orleans, LA.  
 
@@ -181,7 +200,7 @@ To achieve my teaching objectives I develop learner-centered curricula using Blo
 
 ### Experience
 
-I have designed and taught a number of classes over the last several years.  
+I have designed and taught a number of classes over the last several years.  Copies of my recent teaching evaluations can be downloaded [here](http://www.kevin-purcell.com/Purcell_teachEval.PDF)
 
 * **Introduction to Biology** (4 credit; 100/200 Level)  
 * **Conservation Biology** (3 credit; 400/600 Level)  
@@ -194,7 +213,7 @@ I have designed and taught a number of classes over the last several years.
 ***
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.en_US"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/deed.en_US">Creative Commons Attribution 4.0 International License</a>.
 
-######  updated *15 May 2014*  
+######  updated *7 October 2014*  
 
 
 
